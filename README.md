@@ -8,5 +8,5 @@ _**[Challenge video link](https://www.youtube.com/watch?v=VFrKjhcTAzE)**_
 
 _**[Challenge submission video link](https://www.youtube.com/watch?v=R6Btv3RMbCU)**_
 
-_**[Download APK](https://drive.google.com/open?id=1hfXnvd0FOGW9tQkZPqHj2lKxzByFZe9l)**_
+_**[Download APK](https://drive.google.com/file/d/1MxpOxzHJE908R_0wofUmOuUJgJqrb8SO/view?usp=sharing)**_
 
