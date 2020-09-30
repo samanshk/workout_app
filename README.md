@@ -4,9 +4,9 @@ A new Flutter project.
 
 This is the app I built for the app challenge given by Hitesh Choudhary on his YouTube channel
 
-_**[Challenge video link](https://www.youtube.com/watch?v=VFrKjhcTAzE)**_ 
+**[Challenge video link 🎬](https://www.youtube.com/watch?v=VFrKjhcTAzE)**
 
-_**[Challenge submission video link](https://www.youtube.com/watch?v=R6Btv3RMbCU)**_
+**[Challenge submission video link 🎬](https://www.youtube.com/watch?v=R6Btv3RMbCU)**
 
-_**[Download APK](https://drive.google.com/file/d/1MxpOxzHJE908R_0wofUmOuUJgJqrb8SO/view?usp=sharing)**_
+**[Download APK 📥](https://drive.google.com/file/d/1MxpOxzHJE908R_0wofUmOuUJgJqrb8SO/view?usp=sharing)**
 
